@@ -1,5 +1,7 @@
 # Service reporter
 
+![Build status](https://api.travis-ci.org/enyo/service-reporter.png)
+
 The service reporter is an abstract library that can be used to report data to
 a `service-report-manager`.
 
