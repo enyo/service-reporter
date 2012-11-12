@@ -4,6 +4,9 @@
 
 class Reporter
 
+  submit: (type, data) ->
+  error: (error, info) ->
+    console.error err.message
 
 
 
